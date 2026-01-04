@@ -1,0 +1,17 @@
+# Untrack the source data
+git rm --cached data/paysim_fraud_transactions.csv
+
+# Untrack the large investigation report
+git rm --cached reports/investigation.csv
+
+# BUT keep our specific output reports
+
+!reports/report_summary.txt
+
+# Ignore Python system junk
+__pycache__/
+*.pyc
+
+# Ignore local environment files
+.env
+venv/

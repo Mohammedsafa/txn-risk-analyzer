@@ -1,0 +1,24 @@
+FRAUD DETECTION SYSTEM - REPORT SUMMARY
+==========================================
+
+A. DATASET OVERVIEW
+- Total Transaction Processed: 6,362,620
+- Total Volume Moved: $1,144,392,944,759.77
+
+B. PERFORMANCE METRICS
+- TOTAL MONEY SAVED (BLOCKED): $234,952,732,439.62
+- System Alert Rate: 46.91%
+- Total High-Risk Alerts: 2,984,520
+
+C. RISK DISTRIBUTION
+- High: 2,118,300
+- Medium: 2,099,961
+- Low: 1,692,099
+- Critical: 452,260
+
+D. TOP SUSPECT INDIVIDUAL ACCOUNTS (BY FREQUENCY)
+- Account: C1286084959 | Received Transfers: 113
+- Account: C985934102 | Received Transfers: 109
+- Account: C665576141 | Received Transfers: 105
+- Account: C2083562754 | Received Transfers: 102
+- Account: C1590550415 | Received Transfers: 101
